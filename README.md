@@ -29,7 +29,7 @@ I’m Abdelwahd Laatiba, a passionate web developer based in Morocco. Welcome to
 ### Connect with Me
 Feel free to connect with me on LinkedIn or by Email. Let’s geek out together! 🤓
 
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/abdelwahd-laatiba-96097b151?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/abdelwahd-laatiba-96097b151)
 - Email: abdel.laatiba@gmail.com
 
 ### Let’s Collaborate!
