@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AbdoLaatiba/AbdoLaatiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! 👋
+I’m [Your Name], a passionate web developer based in Morocco. Welcome to my GitHub profile! 🌟
+
+### About Me
+🌐 I specialize in web development, mobile development, and other exciting tech fields.
+📚 Currently, I’m diving deep into Node.js and Nuxt.js. Learning is my superpower! 💡
+🚀 I love building responsive and user-friendly web applications that make a positive impact.
+### My Tech Stack
+- 💻 Frontend: HTML, CSS, JavaScript (including frameworks like React and Vue.js)
+- 🌐 Backend: Node.js, Express.js
+- 📱 Mobile: React Native
+- 🗄️ Databases: MongoDB, MySQL
+- 🚀 Other Tools: Git, VS Code, Postman
+### Connect with Me
+Feel free to connect with me on LinkedIn or by Email. Let’s geek out together! 🤓
+
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/abdelwahd-laatiba-96097b151?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: abdel.laatiba@gmail.com
+
+### Let’s Collaborate!
+If you’re working on an exciting project or just want to chat about tech, feel free to reach out. I’m always up for collaboration! 🤝
+
+Happy coding! 🚀
