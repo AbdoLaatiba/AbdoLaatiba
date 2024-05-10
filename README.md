@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 I’m Abdelwahd Laatiba, a passionate web developer based in Morocco. Welcome to my GitHub profile! 🌟
 
 ### About Me
-🌐 I specialize in web development, mobile development, and other exciting tech fields.
-📚 Currently, I’m diving deep into Node.js and Nuxt.js. Learning is my superpower! 💡
-🚀 I love building responsive and user-friendly web applications that make a positive impact.
+🌐 I specialize in web development, mobile development, and other exciting tech fields.  
+📚 Currently, I’m diving deep into Node.js and Nuxt.js. Learning is my superpower! 💡  
+🚀 I love building responsive and user-friendly web applications that make a positive impact.  
 ### My Tech Stack
 - 💻 Frontend: HTML, CSS, JavaScript (including frameworks like React and Vue.js)
-- 🌐 Backend: Node.js, Express.js
-- 📱 Mobile: React Native
+- 🌐 Backend: Node.js, Express.js, Laravel
+- 📱 Mobile: React Native, Flutter
 - 🗄️ Databases: MongoDB, MySQL
 - 🚀 Other Tools: Git, VS Code, Postman
 ### Connect with Me
